@@ -1,3 +1,13 @@
+# Important Notice
+
+This public repository is read-only and no longer maintained.
+
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
+
+Please use the latest links:
+- [cap-js/incidents-app](https://github.com/cap-js/incidents-app)
+- [Develop a Full-Stack CAP Application Following the SAP BTP Developer’s Guide](https://discovery-center.cloud.sap/missiondetail/4327/4608/)
+---
 # Incidents Management
 
 Welcome to the Incidents Management reference sample app for CAP.
